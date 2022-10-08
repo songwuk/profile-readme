@@ -7,8 +7,6 @@
 I&apos;m a FrontEnd Developer 
 ### :seedling: Languages and Tools
 
-<br/>
-
 <img align='left' alt='javascript' width='30px' style='padding-right:10px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
 <img align='left' alt='typescript' width='30px' style='padding-right:10px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
 <img align='left' alt='vuejs' width='30px' style='padding-right:10px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg'>
@@ -17,8 +15,6 @@ I&apos;m a FrontEnd Developer
 <img align='left' alt='babel' width='30px' style='padding-right:10px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg'>
 <img align='left' alt='github' width='30px' style='padding-right:10px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'>
 <img align='left' alt='vscode' width='30px' style='padding-right:10px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg'>
-
-<br/>
 <br/>
 
 
