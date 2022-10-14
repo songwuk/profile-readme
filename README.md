@@ -1,6 +1,6 @@
 # Hi there :raised_hand:
 
-**`FrontEnd Developer`**
+**`Full-Time-FrontEnd-Developer`**
 
 ---
 
@@ -18,9 +18,9 @@ I&apos;m a FrontEnd Developer
 <img align='left' alt='vscode' width='30px' style='padding-right:10px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg'>
 </p>
 
-<p style="margin-bottom:20px"></p>
+---
 
-#
 
 ### :memo: Stats
+
 ![Songwuk GitHub stats](https://github-readme-stats.vercel.app/api?username=songwuk&show_icons=true&theme=radical)
