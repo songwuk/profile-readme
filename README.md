@@ -2,6 +2,8 @@
 
 **`Full-Time-FrontEnd-Developer`**
 
+- 热爱游戏、热爱流浪、热爱生活
+
 ---
 
 I&apos;m a FrontEnd Developer 
