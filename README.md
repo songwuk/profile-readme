@@ -1,9 +1,10 @@
-# Hi there :raised_hand:
+# Hi there :raised_hands:
 
 **`Full-Time-FrontEnd-Developer`**
 
 - 热爱游戏、热爱流浪、热爱生活
-
+- 学习英语、学习源码
+- 想远程工作、不为工作为生活
 ---
 
 I&apos;m a FrontEnd Developer 
