@@ -15,7 +15,7 @@ I&apos;m a FrontEnd Developer
 
 ### :seedling: Languages and Tools
 #
-<div style="display:flex; gap:5px">
+<div style="display:flex; gap:5px; width:100%">
 <div style="background-color: gray; border-radius: 50%;padding: 1px">
   <img style="border-radius: 50%;" align='center' alt='javascript' width='30px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
 </div>
